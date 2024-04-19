@@ -1,0 +1,80 @@
+.centrar{
+    margin: 0 auto;
+}
+
+.carrusel{
+
+margin: ;
+}
+
+
+body{ 
+    
+    background-image: url(../img/fondo.jpg);
+}
+
+.centrar-2{
+ 
+    max-width: 70%;
+    margin:0 auto;
+
+
+}
+
+.espacio{
+
+    margin-top: 3rem; 
+
+}
+.espacio-2{
+
+    margin-top: 1rem; 
+
+}
+
+.justificar{
+
+    justify-content:center;
+}
+
+.texto{
+ 
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.navbar{
+
+    color:black;
+}
+
+
+
+.contenedor-1 {
+
+padding: 30px;
+color: azure;
+background-color: rgb(206, 160, 223);
+border-radius: 20px;
+
+
+
+}
+ 
+.contenedor-2 {
+
+
+    padding: 20px;
+
+    color: azure;
+    background-color: rgb(206, 160, 223);
+    border-radius: 20px;
+
+}
+
+.img{
+
+    float: left;
+}
+
+
